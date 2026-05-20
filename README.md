@@ -43,7 +43,7 @@ This project implements a **real-time hand gesture recognition system** using de
 
 ```
 gesture/
-│── dataset/                     # Training images (5 gesture classes)
+│── dataset/                    # Training images (5 gesture classes)
 │── gesture_model_final.keras   # Trained model
 │── train_model.ipynb           # Model training notebook
 │── run_game2.py                # Real-time gesture control script
